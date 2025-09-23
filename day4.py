@@ -161,5 +161,6 @@ dict1 = {
     'hobby' : 'singing'
 }
 print(dict1)
-print(dict1.keys())
-print(dict1.values())
+print(dict1.keys()) # .keys le key matra dinxa dictionary ko
+print(dict1.values()) #values matra dinxa
+
