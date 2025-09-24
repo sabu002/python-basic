@@ -75,9 +75,9 @@ print()
 
 '''
 
-num5 = int(input("enter a first number"))
-num6 = int(input("enter a decond number"))
-ch = int(input("1. for addition\n 2 for  substraction\n 3. for product"))
+num5 = int(input("enter a first number :"))
+num6 = int(input("enter a decond number :"))
+ch = int(input("1. for addition\n 2.for  substraction\n 3. for product\n"))
 match ch:
     case 1:
         sum =  num5 + num6
